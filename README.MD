@@ -1,4 +1,5 @@
 # Projeto Podcast Gerado por I.A.s
+![3](https://github.com/user-attachments/assets/25eea249-de68-48eb-a833-280ec3abc978)
 
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
